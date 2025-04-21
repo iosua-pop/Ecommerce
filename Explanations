@@ -1,0 +1,5 @@
+1. Creeare proiect:
+
+>composer create-project laravel/laravel ecommerce
+
+
