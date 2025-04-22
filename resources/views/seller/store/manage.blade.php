@@ -1,7 +1,7 @@
 @extends('seller.layouts.layout')
 @section('seller_page_title')
-    Dashboard - Seller Panel
+    Store - Manage
 @endsection
 @section('seller_layout')
-    <h3>Seller Dashboard</h3>
+    <h3>Store Manage</h3>
 @endsection
